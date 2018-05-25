@@ -1,0 +1,68 @@
+2018-05-26 08:25:12,953,DEBUG,add : 4 + 5 = 9 
+2018-05-26 08:25:13,071,DEBUG,add : 4 + 5 = 9 
+2018-05-26 08:30:02,146,ERROR,div by zero
+2018-05-26 08:30:41,587,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 36, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:30:48,142,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 36, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:32:27,117,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 38, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:32:27,277,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 38, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:32:27,458,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 38, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:32:27,638,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 38, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:32:27,857,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 38, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:32:28,438,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 38, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:32:35,281,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 38, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:33:54,542,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 39, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:33:56,928,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 39, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:34:18,161,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 39, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
+2018-05-26 08:34:21,496,ERROR,div by zero
+Traceback (most recent call last):
+  File "/Users/chrischung/Documents/GitHub/pyCode/logging/loggingAdv1.py", line 39, in div
+    result=x/y
+ZeroDivisionError: integer division or modulo by zero
